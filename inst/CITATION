@@ -1,0 +1,27 @@
+bibentry(
+		 bibtype = 'Article',
+		 title = 'Rarefaction and extrapolation with beta diversity under a framework of Hill numbers: the iNEXT.beta3D standardization.',
+     author = c(person("Anne Chao"),
+                person("Simon Thorn"),
+  		          person("Chun-Huo Chiu"),
+  		          person("Faye Moyes"),
+  		          person("Kai-Hsiang Hu"),
+    	          person("Robin L. Chazdon"),
+                person("Jessie Wu"),
+                person("Luiz Fernando S. Magnago"),
+                person("Maria Dornelas"),
+                person("David Zeleny"),
+                person("Robert K. Colwell"),
+                person("Anne E. Magurran")),
+		 journal = 'Ecological Monographs',
+		 year = '2023',
+		 month   = "11",
+		 volume  = "93",
+     issue   = "4",
+     doi = '10.1002/ecm.1588',
+     header  = "To cite iNEXT.beta3D in publications use:",
+		 textVersion = paste('Chao, A., Thorn, S., Chiu, C.-H., Moyes, F., Hu, K.-H., Chazdon, R. L., Wu, J., Magnago, L. F. S., Dornelas, M., Zeleny, D., Colwell, R. K., and Magurran, A. E. (2023). Rarefaction and extrapolation with beta diversity under a framework of Hill numbers: the iNEXT.beta3D standardization. Ecological Monographs e1588.')
+)
+
+
+
