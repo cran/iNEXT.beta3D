@@ -1,7 +1,7 @@
-02fa3832a457056768a9fb2740d99fbd *DESCRIPTION
+38a832ad877280bc980e375e26f2d998 *DESCRIPTION
 185816aed1e879a9bb285d895d4a0d2f *NAMESPACE
-fca644e165d4b700eceb2851eef36acf *NEWS
-3ca69fa0de4073e22cb39d31b3b08732 *R/MainFun.r
+c6c3ef60d68864af8496eae283eb4a90 *NEWS
+f23a5cf052edccac9877609b6981bfa9 *R/MainFun.r
 94f1932fd0d70a1d227fbb75ee8dd2e3 *build/vignette.rds
 17bc790f66955788a23f2a1320f1ba02 *data/Brazil_distM.rda
 54f3fcd93fe215302c61cfea0f042f5e *data/Brazil_rainforests.rda
@@ -9,7 +9,7 @@ fca644e165d4b700eceb2851eef36acf *NEWS
 8764ef5a052bff8de83a5bc8057951b8 *data/Second_growth_forests.rda
 5df508a4e709f5f5d9c697258a71df8b *inst/CITATION
 41e203636170618310f9ccacaaa89b12 *inst/doc/Introduction.Rnw
-7bf189ce2dc80b0ae47cc9b9069c6b7f *inst/doc/Introduction.pdf
+3bfefce1f91a31031f3a41e72d91da2c *inst/doc/Introduction.pdf
 2e4b05e8c49b033f97a88a5ffbf3ec2d *man/Brazil_distM.Rd
 c24918b83c837e600dd7d5b92cab8ba9 *man/Brazil_rainforests.Rd
 f9cf8d3e4ce4df2f3a88cca980b527ec *man/Brazil_tree.Rd
